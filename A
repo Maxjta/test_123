@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #j Copyright (c) 2022, Maxjta
+=======
+# Copyright (c) 2022, Maxjta
+>>>>>>> 840ba21d913c49cd0b2d62a365f715f49459cba5
 # SPDX-License-Identifier: Apache-2.0
 
 config SOC_FAMILY_AT32
@@ -11,4 +15,8 @@ if SOC_FAMILY_AT32
 
 rsource "*/Kconfig"
 
+<<<<<<< HEAD
 endif # SOC_FAMILY_AT32
+=======
+endif # SOC_FAMILY_AT32
+>>>>>>> 840ba21d913c49cd0b2d62a365f715f49459cba5
